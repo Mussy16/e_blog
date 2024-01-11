@@ -242,6 +242,23 @@ http://www.templatemo.com/tm-509-hydro
   .custom-navbar .section-btn a {
     padding: 0;
   }
+  /*code for Animation */
+  #containter{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#containter h3{
+    font-size: 30px;
+    font-weight: 600;
+     color: purple;
+}
+
+span{
+  color: #fff727;
+}
 
   .custom-navbar .nav .section-btn a:hover {
     color: #ffffff;
@@ -336,7 +353,12 @@ http://www.templatemo.com/tm-509-hydro
     padding-top: 10em;
     text-align: left;
   }
-
+  #logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 6px;
+    position: fixed;
+  }
   #home h1 {
     color: #ffffff;
   }
@@ -479,8 +501,18 @@ http://www.templatemo.com/tm-509-hydro
     transform: translateY(0px);
     opacity: 1;
   }
-
-
+   .img-responsive{
+     width: 300px;
+     height: 300px;
+     
+   }
+   .traine{
+    margin-top: 1.3rem;
+    font-size: 2.2rem;
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+   }
 
   /*---------------------------------------
       BLOG             
