@@ -388,6 +388,24 @@ span{
     display: block;
   }
 
+  .welcome h2 {
+    color:purple;
+    z-index: 3;
+    font-size: 4.3rem;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+  
+  }
+
+  .welcome p {
+    color:black;
+    z-index: 3;
+    font-size: 2.2rem;
+    text-align: center;
+    font-weight: 300;
+    font-style: italic;
+  }
 
 
   /*---------------------------------------
